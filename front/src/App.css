@@ -1,0 +1,5 @@
+.cardNote {
+  display: inline-block !important;
+  margin: 1% 0.5% !important;
+  word-wrap:  break-word;
+}
